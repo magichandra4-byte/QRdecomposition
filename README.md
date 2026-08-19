@@ -57,9 +57,14 @@ QR_Decomposition(a)
 
 ## Output
 ```
-Screenshot (85).png
-Screenshot (86).png
-ex08 math.pdf
+## Output
+
+![Screenshot 85](Screenshot%20%2885%29.png)
+
+![Screenshot 86](Screenshot%20%2886%29.png)
+
+[ex08 math.pdf](ex08%20math.pdf)
+
 ```
 
 ## Result
